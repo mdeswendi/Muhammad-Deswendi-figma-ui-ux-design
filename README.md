@@ -15,7 +15,7 @@
 
 | Halaman | Preview | Deskripsi |
 |---------|---------|-----------|
-| Login | ![Login](screenshots/Login%20Page.png) | Halaman autentikasi |
+| Login | ![Login](screenshots/Login.png) | Halaman autentikasi |
 | Dashboard | ![Dashboard](screenshots/Dashboard%20Page.png) | Overview keuangan |
 | Verifikasi | ![Verifikasi](screenshots/Verifikasi%20Page.png) | Approvals workflow |
 | Pelaporan | ![Pelaporan](screenshots/Pelaporan%20Page.png) | Laporan keuangan |
