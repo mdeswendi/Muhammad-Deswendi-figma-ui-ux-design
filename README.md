@@ -13,32 +13,26 @@
 
 ### 🖼️ Screenshots
 
-| Halaman | Preview | Deskripsi |
-|---------|---------|-----------|
-| Login | ![Login](screenshots/Login%20Page.png) | Halaman autentikasi |
-| Dashboard | ![Dashboard](screenshots/Dashboard%20Page.png) | Overview keuangan |
-| Verifikasi | ![Verifikasi](screenshots/Verifikasi%20Page.png) | Approvals workflow |
-| Pelaporan | ![Pelaporan](screenshots/Pelaporan%20Page.png) | Laporan keuangan |
-| Pengajuan | ![Pengajuan](screenshots/Pengajuan%20Page.png) | Form pengajuan dana |
-| Pengajuan Proposal | ![Pengajuan Proposal](screenshots/Pengajuan%20Proposal%20Form.png) | Form pengajuan proposal |
-| Pengajuan Reimburse | ![Pengajuan Reimburse](screenshots/Pengajuan%20Reimburse%20Form.png) | Form pengajuan reimburse |
-| Proses Verifikasi | ![Proses Verifikasi](screenshots/Proses%20Verifikasi%20Form.png) | Form verifikasi |
-| Dashboard Monitoring | ![Dashboard Monitoring](screenshots/Dasboard%20Monitoring%20Keuangan.png) | Dashboard monitoring keuangan |
-| Notification | ![Notification](screenshots/Notification.png) | Halaman notifikasi |
+**Lihat semua screenshot di folder berikut:**  
+[screenshots/](https://github.com/mdeswendi/Muhammad-Deswendi-figma-ui-ux-design/tree/main/screenshots)
+
+**Daftar Screenshot:**
+1. [Login Page.png](screenshots/Login%20Page.png) - Halaman autentikasi
+2. [Dashboard Page.png](screenshots/Dashboard%20Page.png) - Overview keuangan  
+3. [Verifikasi Page.png](screenshots/Verifikasi%20Page.png) - Approvals workflow
+4. [Pelaporan Page.png](screenshots/Pelaporan%20Page.png) - Laporan keuangan
+5. [Pengajuan Page.png](screenshots/Pengajuan%20Page.png) - Form pengajuan dana
+6. [Pengajuan Proposal Form.png](screenshots/Pengajuan%20Proposal%20Form.png) - Form pengajuan proposal
+7. [Pengajuan Reimburse Form.png](screenshots/Pengajuan%20Reimburse%20Form.png) - Form pengajuan reimburse
+8. [Proses Verifikasi Form.png](screenshots/Proses%20Verifikasi%20Form.png) - Form verifikasi
+9. [Dashboard Monitoring Keuangan.png](screenshots/Dashboard%20Monitoring%20Keuangan.png) - Dashboard monitoring
+10. [Notification.png](screenshots/Notification.png) - Halaman notifikasi
 
 ### 🛠️ Tools & Teknologi
 - **Design Tool**: Figma
 - **Prototyping**: Figma Interactive Components
 - **Version Control**: GitHub
 - **Design System**: Custom UI Kit
-
-### 🎨 Design System
-- **Primary Color**: #2563EB (Biru Kepercayaan)
-- **Secondary Color**: #10B981 (Hijau Finansial)
-- **Typography**: Inter (Bold, Medium, Regular)
-- **Spacing**: 8px baseline grid
-
-### 📁 Project Structure
 
 ### 👨‍💻 Designer
 **Muhammad Deswendi**  
@@ -47,8 +41,7 @@ Universitas Telkom
 
 ### 🔗 Links
 - **GitHub Repository**: https://github.com/mdeswendi/Muhammad-Deswendi-figma-ui-ux-design
-- **Figma File**: [Link akan ditambahkan]
+- **Screenshots Folder**: https://github.com/mdeswendi/Muhammad-Deswendi-figma-ui-ux-design/tree/main/screenshots
 
 ### 📄 License
 This project is open source and available for educational purposes.
-EOF
